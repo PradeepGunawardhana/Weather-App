@@ -1,0 +1,36 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+
+.weather-app{
+    
+        background-image: url("./src/assets/bg.png") !important;
+        background-size: cover !important; 
+        background-position: center; 
+        background-repeat: no-repeat; 
+        color: white; 
+     
+        border-radius: 10px; 
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+    
+    
+}
+.btn-ctm:hover{
+
+    background-color: #B75FE3;
+  
+}
+.btn-ctm:hover i{
+    color: aliceblue;
+}
+
+.img-wrapper{
+    width: 80px;
+    height: auto;
+}
+
+.info-img-container{
+    width: 30px;
+}
